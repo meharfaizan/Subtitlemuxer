@@ -1,5 +1,5 @@
 
-# (c) mohdsabahat
+# (c) mohdsabahat&Navipavi
 
 import logging
 logging.basicConfig(level = logging.DEBUG,
@@ -14,7 +14,7 @@ if os.path.exists('testconfig.py'):
 else:
     from config import Config
 
-from helper_func.dbhelper import Database as Db
+from func.dbhelper import Database as Db
 db = Db().setup()
 
 import pyrogram
