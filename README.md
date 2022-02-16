@@ -1,5 +1,4 @@
-# 🚧 Unmaintained Repository 🚧
-This repo is now old and unmaintained, if you wish to work on it please fork it!
+# This repo is now old and unmaintained, if you wish to work on it please fork it!
 
 # Sub-Muxer
 Telegram bot to mux subtitle with video.
@@ -41,3 +40,4 @@ Telegram bot to mux subtitle with video.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+ # bye kangers 🙃
